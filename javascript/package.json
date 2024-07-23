@@ -1,0 +1,14 @@
+{
+  "name": "leet-code-jfouts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Justin Fouts",
+  "license": "ISC",
+  "description": "A collection of leet code solutions.",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
